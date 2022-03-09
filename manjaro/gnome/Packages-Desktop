@@ -159,7 +159,7 @@ gnome-tweaks
 ## GNOME Shell Extensions
 >extra gnome-shell-extension-x11gestures
 >extra gnome-shell-extension-gnome-ui-tune
->extra gnome-shell-extension-dash-to-dock
+>extra gnome-shell-extension-dash-to-panel
 >extra gnome-shell-extension-appindicator
 
 ## Themes
