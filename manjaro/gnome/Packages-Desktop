@@ -162,6 +162,7 @@ gnome-tweaks
 >extra gnome-shell-extension-gnome-ui-tune
 >extra gnome-shell-extension-dash-to-panel
 >extra gnome-shell-extension-appindicator
+>extra gnome-shell-extension-arcmenu
 
 ## Themes
 adwaita-maia
