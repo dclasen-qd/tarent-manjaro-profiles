@@ -140,10 +140,10 @@ gnome-tweaks
 ## GNOME Extra games
 #five-or-more
 #four-in-a-row
->extra gnome-chess
->extra gnome-mines
->extra iagno
->extra quadrapassel
+#>extra gnome-chess
+#>extra gnome-mines
+#>extra iagno
+#>extra quadrapassel
 #hitori
 #gnome-klotski
 #gnome-mahjongg
