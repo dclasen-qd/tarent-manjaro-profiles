@@ -4,3 +4,4 @@
 .kateproject.d
 *.sig
 /nixdk/
+.idea/
