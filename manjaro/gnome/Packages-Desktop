@@ -235,7 +235,7 @@ libreoffice-fresh
 libreoffice-fresh-de
 oh-my-zsh
 yay
-manjaro-gnome-settings
+#manjaro-gnome-settings
 pavucontrol
 vlc
 
@@ -256,7 +256,7 @@ mesa-utils
 ## Settings packages
 manjaro-base-skel
 manjaro-gnome-settings
->extra manjaro-gnome-assets
+#>extra manjaro-gnome-assets
 >extra manjaro-gnome-extension-settings
 >extra lighter-gnome
 #manjaro-browser-settings
