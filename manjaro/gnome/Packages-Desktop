@@ -208,7 +208,6 @@ manjaro-settings-manager-notifier
 mousetweaks
 nautilus-admin
 nautilus-empty-file
->extra onlyoffice-desktopeditors
 polkit-gnome
 >extra timeshift
 xdg-utils
