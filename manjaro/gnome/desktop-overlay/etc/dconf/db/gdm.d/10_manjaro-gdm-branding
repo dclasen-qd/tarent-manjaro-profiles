@@ -1,0 +1,6 @@
+[org/gnome/login-screen]
+#transparent svg
+logo='/usr/share/icons/tarent/heart-icon-tarent-manjaro-x128.png'
+
+[org.gnome.desktop.screensaver]
+picture-uri='/usr/share/backgrounds/tarent-interpolar.png'
